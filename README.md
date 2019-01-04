@@ -1,6 +1,14 @@
 # Calculadora_Prova_final_UFAM📝
 Para alunos novos da Universidade Federal do Amazonas, existe uma grande dificuldade em saber calcular se irá ser necessário fazer prova final ou não. Para isso, foi desenvolvido um programa em python que automatiza a tarefa.
 
+## Instalação
+Para rodar este programa, deve-se ter o [Python](https://www.python.org/) instalado e adicioná-lo no path ([COMO EXECUTAR UM CÓDIGO PYTHON PELO PROMPT DE COMANDO](http://www.mundodoshackers.com.br/como-executar-um-codigo-python-pelo-prompt-de-comando)).
+
+## Rodando
+Abre o prompt de comando e navegue até o diretório em que se encontra o arquivo .py, em seguida execute o seguinte comando:
+
+`python prova_final.py`
+
 ## Para quem é este programa?
 Este programa foi criado para a comunidade acadêmica da Universidade Federal do Amazonas.
 
